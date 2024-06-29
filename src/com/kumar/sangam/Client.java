@@ -1,4 +1,4 @@
-package com.sangam.kumar;
+package com.kumar.sangam;
 
 public class Client {
     public static void main(String[] args) {
